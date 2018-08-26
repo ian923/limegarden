@@ -1,18 +1,18 @@
 {
   "name": "limegarden",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "censortext",
+  "main": "censortext.js",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/ian923/limegarden"
-  },
-  "keywords": [
-    "censor",
-    "words"
-  ],
-  "dependencies": {},
-  "engines": {
-      "node": "*"
-  }
+         "type": "git",
+         "url":"https://github.com/ian923/limegarden"
+       },
+       "keywords": [
+         "censor",
+         "words"
+       ],
+       "dependencies": {},
+       "engines": {
+           "node": "*"
+       }
 }
